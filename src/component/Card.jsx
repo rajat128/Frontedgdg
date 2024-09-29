@@ -22,7 +22,7 @@ function Card({ colour, name, image }) {
                   {name}
                 </p>
                 <div className="flex justify-center">
-                  <img src="src\assets\Vector.png" className="h-2"></img>
+                  <img src="https://res.cloudinary.com/metube128/image/upload/v1727594693/GDG/vector/w2z0ah2xw8a42tikcgkt.png" className="h-2"></img>
                 </div>
               </div>
               </div>
